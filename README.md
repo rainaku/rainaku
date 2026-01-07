@@ -4,14 +4,11 @@
 <!--                              GLORY TO MANKIND                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=1&section=header"/>
-
 <br>
 
-<!-- Profile Picture with Border -->
+<!-- Profile Picture -->
 <a href="https://rainaku.id.vn">
-  <img src="https://github.com/rainaku.png" width="150" height="150" style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.1);"/>
+  <img src="https://github.com/rainaku.png" width="150" height="150" alt="rain"/>
 </a>
 
 <br><br>
@@ -36,8 +33,7 @@
 
 <!-- Location & Time -->
 <sub>
-  <img src="https://img.shields.io/badge/📍-Vietnam-0d1117?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🕐-UTC+07:00-0d1117?style=flat-square&labelColor=0d1117"/>
+  📍 Vietnam &nbsp;•&nbsp; 🕐 UTC+07:00
 </sub>
 
 <br><br>
@@ -47,22 +43,15 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Glass-style Social Links -->
-<a href="https://rainaku.id.vn">
-  <img src="https://img.shields.io/badge/Portfolio-rainaku.id.vn-161b22?style=for-the-badge&logo=googlechrome&logoColor=8b949e&labelColor=0d1117"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-rainaku.id.vn-161b22?style=for-the-badge&logo=googlechrome&logoColor=8b949e&labelColor=0d1117)](https://rainaku.id.vn)
 &nbsp;
-<a href="https://www.facebook.com/rain.107/">
-  <img src="https://img.shields.io/badge/Facebook-rain.107-161b22?style=for-the-badge&logo=facebook&logoColor=8b949e&labelColor=0d1117"/>
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-rain.107-161b22?style=for-the-badge&logo=facebook&logoColor=8b949e&labelColor=0d1117)](https://www.facebook.com/rain.107/)
 &nbsp;
-<a href="https://github.com/rainaku">
-  <img src="https://img.shields.io/badge/GitHub-rainaku-161b22?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-rainaku-161b22?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117)](https://github.com/rainaku)
 
-<br><br>
+<br>
 
-<!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <br>
 
@@ -99,6 +88,10 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 
 <div align="center">
 
+---
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              TECH STACK                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -108,27 +101,26 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 <br>
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=8b949e"/>
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=8b949e)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=8b949e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8b949e)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=8b949e)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=8b949e)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=8b949e)
 
-<br><br>
+<br>
 
 <!-- Frameworks & Tools -->
-<img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/WPF-0d1117?style=for-the-badge&logo=windows&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=8b949e"/>
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=8b949e)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=8b949e)
+![WPF](https://img.shields.io/badge/WPF-0d1117?style=for-the-badge&logo=windows&logoColor=8b949e)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=8b949e)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8b949e)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=8b949e)
 
-<br><br>
+<br>
 
-<!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <br>
 
@@ -140,33 +132,28 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 
 <br>
 
-<!-- Stats Cards with Dark Theme -->
-<a href="https://github.com/rainaku">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e&text_color=6e7681&ring_color=8b949e" alt="GitHub Stats"/>
-</a>
+<!-- Using github-readme-stats with cache busting -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rainaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e&text_color=6e7681">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rainaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e&text_color=6e7681" alt="GitHub Stats"/>
+</picture>
 &nbsp;&nbsp;
-<a href="https://github.com/rainaku">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=6e7681" alt="Top Languages"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=6e7681">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=6e7681" alt="Top Languages"/>
+</picture>
 
 <br><br>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/rainaku">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainaku&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=6e7681&currStreakNum=8b949e&sideNums=6e7681&dates=6e7681" alt="GitHub Streak"/>
-</a>
+<!-- GitHub Streak - using different instance -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rainaku&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=8B949E&sideNums=6E7681&dates=6E7681">
+  <img src="https://streak-stats.demolab.com?user=rainaku&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=8B949E&sideNums=6E7681&dates=6E7681" alt="GitHub Streak"/>
+</picture>
 
-<br><br>
+<br>
 
-<!-- Activity Graph -->
-<a href="https://github.com/rainaku">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=0d1117&color=8b949e&line=8b949e&point=ffffff&area=true&area_color=21262d&hide_border=true" alt="Activity Graph"/>
-</a>
-
-<br><br>
-
-<!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <br>
 
@@ -178,29 +165,24 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 
 <br>
 
-<!-- Project Cards -->
-<a href="https://github.com/rainaku/Scroll-V">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="Scroll-V"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rainaku/FreeMyRam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="FreeMyRam"/>
-</a>
+<!-- Project Cards using table for better layout -->
+| 🖱️ **Scroll-V** | 🧹 **FreeMyRam** |
+|:---:|:---:|
+| Extreme smooth scrolling experience | Flush all of your RAM cache |
+| ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=8b949e) ![WPF](https://img.shields.io/badge/WPF-0d1117?style=flat-square&logo=windows&logoColor=8b949e) | ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=8b949e) ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=8b949e) |
+| [📂 View Repository](https://github.com/rainaku/Scroll-V) | [📂 View Repository](https://github.com/rainaku/FreeMyRam) |
 
-<br><br>
+<br>
 
-<a href="https://github.com/rainaku/YouTube-Video-Stretcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="YouTube-Video-Stretcher"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rainaku/Youtube-Premium-Logo-Free">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="Youtube-Premium-Logo-Free"/>
-</a>
+| 📺 **YouTube Video Stretcher** | 👑 **YouTube Premium Logo** |
+|:---:|:---:|
+| Stretch video ratio like Counter-Strike | Free Premium logo (aesthetic only) |
+| ![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=8b949e) ![Chrome](https://img.shields.io/badge/Chrome-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e) | ![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=8b949e) ![Extension](https://img.shields.io/badge/Ext-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e) |
+| [📂 View Repository](https://github.com/rainaku/YouTube-Video-Stretcher) | [📂 View Repository](https://github.com/rainaku/Youtube-Premium-Logo-Free) |
 
-<br><br>
+<br>
 
-<!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <br>
 
@@ -209,7 +191,7 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=rainaku&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=rainaku&style=flat-square&color=0d1117&label=Profile+Views)
 
 <br><br>
 
@@ -221,8 +203,5 @@ quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính h�
 </sub>
 
 <br><br>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=1&section=footer"/>
 
 </div>
