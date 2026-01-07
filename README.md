@@ -100,30 +100,40 @@ fun_fact: I love making free tools that should be paid
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">Scroll-V</h3>
     <p align="center">
       <a href="https://github.com/rainaku/Scroll-V">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="Scroll-V"/>
+        <img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="80" alt="Scroll-V Icon"/>
       </a>
     </p>
+    <h3 align="center">Scroll-V</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/C%23-00ACC1?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/WPF-4DD0E1?style=flat-square&logo=windows&logoColor=white"/>
     </p>
     <p align="center"><em>Extreme smooth scrolling experience, totally free!</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">FreeMyRam</h3>
     <p align="center">
-      <a href="https://github.com/rainaku/FreeMyRam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="FreeMyRam"/>
+      <a href="https://github.com/rainaku/Scroll-V">
+        <img src="https://img.shields.io/github/stars/rainaku/Scroll-V?style=flat-square&color=00BCD4" alt="Stars"/>
       </a>
     </p>
+  </td>
+  <td width="50%">
+    <p align="center">
+      <a href="https://github.com/rainaku/FreeMyRam">
+        <img src="https://raw.githubusercontent.com/rainaku/FreeMyRam/main/src/Assets/icon.png" width="80" alt="FreeMyRam Icon"/>
+      </a>
+    </p>
+    <h3 align="center">FreeMyRam</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/C%23-00ACC1?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET-4DD0E1?style=flat-square&logo=dotnet&logoColor=white"/>
     </p>
     <p align="center"><em>Flush all of your RAM cache instantly!</em></p>
+    <p align="center">
+      <a href="https://github.com/rainaku/FreeMyRam">
+        <img src="https://img.shields.io/github/stars/rainaku/FreeMyRam?style=flat-square&color=00BCD4" alt="Stars"/>
+      </a>
+    </p>
   </td>
 </tr>
 <tr>
