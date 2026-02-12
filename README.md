@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Hero Header -->
-<img width="100%" src="rainaku.png" alt="Rain Hero" style="border-radius: 24px; object-fit: cover;"/>
+<img width="100%" src="https://raw.githubusercontent.com/rainaku/rainaku/main/rainaku.png?t=202602121255" alt="Rain Hero" style="border-radius: 24px; object-fit: cover;"/>
 
 <br/>
 
 <!-- Modern Typing -->
 <a href="https://github.com/rainaku">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+Different.;Design+Precision.;Build+Excellence." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+Different.;Design+Precision.;Build+Excellence." alt="Typing SVG" />
 </a>
 
 <br/>
