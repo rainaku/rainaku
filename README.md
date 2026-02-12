@@ -26,9 +26,11 @@
 
 <div align="center">
 <img src="philosophy.svg" width="80%" alt="Philosophy"/>
+<br/>
 <img src="https://img.shields.io/badge/DESIGN-MINIMAL-F5F5F7?style=flat-square&logoColor=000000" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/CODE-PRECISION-F5F5F7?style=flat-square&logoColor=000000" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/UX-HUMAN--CENTERED-F5F5F7?style=flat-square&logoColor=000000" height="25"/>
+<br/>
 
 <img src="https://i.pinimg.com/originals/8a/8d/f3/8a8df3092008f889279dc9f5e1975e5a.gif" width="60%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);"/>
 
