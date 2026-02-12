@@ -7,7 +7,7 @@
 
 <!-- Modern Typing: EB Garamond -->
 <a href="https://github.com/rainaku">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+Different.;Design+Precision.;Build+Excellence." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+different.;Design+precision.;Build+excellence." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -59,12 +59,12 @@
 <div align="center">
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=transparent&title_color=FFFFFF&icon_color=FFFFFF&text_color=F5F5F7&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=transparent&title_color=FFFFFF&text_color=F5F5F7&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=F5F5F7&count_private=true&t=20260212)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rainaku&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=F5F5F7&langs_count=8&t=20260212)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rainaku&theme=dark&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=F5F5F7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rainaku&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=F5F5F7&t=20260212)
 
 </div>
 
