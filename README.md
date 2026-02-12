@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=48&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Simplicity+is+the+focus." alt="Main Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=48&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Simplicity+is+the+focus.&duration=1&pause=0" alt="Main Title" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=22&color=86868b&center=true&vCenter=true&width=800&height=100&lines=I+don't+just+write+code.+I+craft+digital+experiences+where+every;pixel+has+a+purpose+and+every+interaction+feels+intentional.;Obsessed+with+the+intersection+of+Art+and+Engineering." alt="About Description" />
+<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=22&color=86868b&center=true&vCenter=true&width=800&height=100&lines=I+don't+just+write+code.+I+craft+digital+experiences+where+every;pixel+has+a+purpose+and+every+interaction+feels+intentional.;Obsessed+with+the+intersection+of+Art+and+Engineering.&duration=1&pause=0" alt="About Description" />
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%97%8E-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=200&height=30&lines=Tech+Ecosystem" valign="middle"/>
+## <img src="https://img.shields.io/badge/-%E2%97%8E-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=200&height=30&lines=Tech+Ecosystem&duration=1&pause=0" valign="middle"/>
 
 <div align="center">
 <br/>
@@ -63,7 +63,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%97%89-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=200&height=30&lines=Analytics" valign="middle"/>
+## <img src="https://img.shields.io/badge/-%E2%97%89-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=200&height=30&lines=Analytics&duration=1&pause=0" valign="middle"/>
 
 <div align="center">
 <br/>
@@ -79,20 +79,20 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%96%A3-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=350&height=30&lines=Feature+Highlights" valign="middle"/>
+## <img src="https://img.shields.io/badge/-%E2%96%A3-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=350&height=30&lines=Feature+Highlights&duration=1&pause=0" valign="middle"/>
 
 <div align="center">
 <br/>
 
-| <a href="https://github.com/rainaku/V-Notch"><img src="https://raw.githubusercontent.com/rainaku/V-Notch/main/Services/icons/logo.png" width="90" style="border-radius: 22%;"/></a> | <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=20&color=FFFFFF&width=200&height=25&lines=V-Notch" alt="V-Notch" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=16&color=86868b&width=300&height=20&lines=The+definitive+Dynamic+Island+for+Windows." /> <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) |
+| <a href="https://github.com/rainaku/V-Notch"><img src="https://raw.githubusercontent.com/rainaku/V-Notch/main/Services/icons/logo.png" width="90" style="border-radius: 22%;"/></a> | <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=20&color=FFFFFF&width=200&height=25&lines=V-Notch&duration=1&pause=0" alt="V-Notch" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=16&color=86868b&width=350&height=20&lines=The+definitive+Dynamic+Island+for+Windows.&duration=1&pause=0" /> <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) |
 | :--- | :--- |
-| <a href="https://github.com/rainaku/Scroll-V"><img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="90" style="border-radius: 22%;"/></a> | <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=20&color=FFFFFF&width=200&height=25&lines=Scroll-V" alt="Scroll-V" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=16&color=86868b&width=300&height=20&lines=Redefining+physics-based+smooth+scrolling." /> <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
+| <a href="https://github.com/rainaku/Scroll-V"><img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="90" style="border-radius: 22%;"/></a> | <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=20&color=FFFFFF&width=200&height=25&lines=Scroll-V&duration=1&pause=0" alt="Scroll-V" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=16&color=86868b&width=400&height=20&lines=Redefining+physics-based+smooth+scrolling.&duration=1&pause=0" /> <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%9C%A7-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=250&height=30&lines=Contribution+Graph" valign="middle"/>
+## <img src="https://img.shields.io/badge/-%E2%9C%A7-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=250&height=30&lines=Contribution+Graph&duration=1&pause=0" valign="middle"/>
 
 <div align="center">
   <br/>
@@ -105,7 +105,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%9C%89-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=250&height=30&lines=Let's+Collaborate" valign="middle"/>
+## <img src="https://img.shields.io/badge/-%E2%9C%89-lightgrey?style=flat-square" width="20" valign="middle"/> <img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=24&color=FFFFFF&vCenter=true&width=250&height=30&lines=Let's+Collaborate&duration=1&pause=0" valign="middle"/>
 
 <div align="center">
 <br/>
@@ -129,7 +129,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=18&color=FFFFFF&center=true&vCenter=true&width=400&height=30&lines=Crafted+with+Precision+by+RAIN.+in+Vietnam" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=EB%20Garamond&weight=500&size=18&color=FFFFFF&center=true&vCenter=true&width=400&height=30&lines=Crafted+with+Precision+by+RAIN.+in+Vietnam&duration=1&pause=0" alt="Footer" />
 
 </div>
 
