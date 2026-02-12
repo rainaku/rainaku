@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Hero Header -->
+<!-- Hero Header: Cache Busted -->
 <img width="100%" src="https://raw.githubusercontent.com/rainaku/rainaku/main/rainaku.png?t=202602121255" alt="Rain Hero" style="border-radius: 24px; object-fit: cover;"/>
 
 <br/>
 
-<!-- Modern Typing -->
+<!-- Modern Typing: EB Garamond -->
 <a href="https://github.com/rainaku">
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+Different.;Design+Precision.;Build+Excellence." alt="Typing SVG" />
 </a>
@@ -28,9 +28,8 @@
 
 <div align="center">
 
-# Simplicity is the focus.
-
-I don't just write code. I craft digital experiences where every pixel has a purpose and every interaction feels intentional. Obsessed with the intersection of **Art** and **Engineering**.
+<!-- Philosophy Section using EB Garamond SVG for full font support -->
+<img src="philosophy.svg" width="80%" alt="Philosophy"/>
 
 <br/>
 
