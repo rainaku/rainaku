@@ -1,177 +1,101 @@
 <div align="center">
 
-<!-- Header Banner with Snow Blue Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:B2EBF2,100:4DD0E1&height=200&section=header&text=rain&fontColor=006064&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Turning%20ideas%20into%20reality&descAlignY=55&descSize=18"/>
+<!-- Hero Header -->
+<img width="100%" src="https://raw.githubusercontent.com/rainaku/rainaku/main/rainaku.png" alt="Rain Hero"/>
 
-<!-- Animated Typing -->
+<br/>
+
+<!-- Modern Typing -->
 <a href="https://github.com/rainaku">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00ACC1&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+Rain;Developer+from+Vietnam;Building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+Different.;Design+Precision.;Build+Excellence." alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rainaku&style=for-the-badge&color=00BCD4&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/>
+
+<!-- Status Pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Designing_Tomorrow-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <a href="https://rainaku.id.vn">
-    <img src="https://img.shields.io/badge/Portfolio-rainaku.id.vn-00ACC1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-Live-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000"/>
   </a>
-</p>
-
-<!-- Quick Bio Card -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rainaku&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox"/>
-
-</div>
-
----
-
-## About Me
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding gif"/>
-
-```yaml
-name: Rain
-location: Vietnam
-bio: "I'm dumb at coding (literally)" 
-current_focus: Building utility apps that make life easier
-interests:
-  - System Optimization Tools
-  - Browser Extensions
-  - Smooth UX/UI
-  - Anime & Gaming
-fun_fact: I love making free tools that should be paid
-```
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dart,js,html,css,py&theme=dark&perline=6" alt="Languages"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark&perline=8" alt="Tools"/>
-</p>
-
-### Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="OS"/>
 </p>
 
 </div>
 
 ---
 
-## GitHub Analytics
+<br/>
 
 <div align="center">
-  
-<p>
-  <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=00ACC1" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/rainaku">
-    <img src="https://streak-stats.demolab.com/?user=rainaku&theme=tokyonight&hide_border=true&background=0D1117&stroke=4DD0E1&ring=00BCD4&fire=00ACC1&currStreakLabel=4DD0E1&sideLabels=4DD0E1&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-  </a>
-</p>
+# Simplicity is the focus.
 
-<a href="https://github.com/rainaku">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=0D1117&color=4DD0E1&line=00BCD4&point=FFFFFF&area=true&area_color=00ACC1&hide_border=true" alt="Activity Graph"/>
-</a>
+I don't just write code. I craft digital experiences where every pixel has a purpose and every interaction feels intentional. Obsessed with the intersection of **Art** and **Engineering**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/DESIGN-MINIMAL-F5F5F7?style=flat-square&logoColor=000000" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/CODE-PRECISION-F5F5F7?style=flat-square&logoColor=000000" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/UX-HUMAN--CENTERED-F5F5F7?style=flat-square&logoColor=000000" height="25"/>
+
+<br/>
+<br/>
+
+<img src="https://i.pinimg.com/originals/8a/8d/f3/8a8df3092008f889279dc9f5e1975e5a.gif" width="60%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://img.shields.io/badge/-%E2%97%8E-lightgrey?style=flat-square" width="20" valign="middle"/> Tech Ecosystem
+
+<div align="center">
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dart,js,py,html,css&theme=dark" alt="Languages"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark" alt="Tools"/>
+</p>
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/-%E2%97%89-lightgrey?style=flat-square" width="20" valign="middle"/> Analytics
+
+<div align="center">
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=transparent&title_color=FFFFFF&icon_color=FFFFFF&text_color=F5F5F7&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=transparent&title_color=FFFFFF&text_color=F5F5F7&langs_count=8)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rainaku&theme=dark&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=F5F5F7)
 
 </div>
 
 ---
 
-## Featured Projects
+## <img src="https://img.shields.io/badge/-%E2%96%A3-lightgrey?style=flat-square" width="20" valign="middle"/> Feature Highlights
 
 <div align="center">
-<table>
-<tr>
-  <td width="50%">
-    <p align="center">
-      <a href="https://github.com/rainaku/Scroll-V">
-        <img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="80" alt="Scroll-V Icon"/>
-      </a>
-    </p>
-    <h3 align="center">Scroll-V</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C%23-00ACC1?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WPF-4DD0E1?style=flat-square&logo=windows&logoColor=white"/>
-    </p>
-    <p align="center"><em>Extreme smooth scrolling experience, totally free!</em></p>
-    <p align="center">
-      <a href="https://github.com/rainaku/Scroll-V">
-        <img src="https://img.shields.io/github/stars/rainaku/Scroll-V?style=flat-square&color=00BCD4" alt="Stars"/>
-      </a>
-    </p>
-  </td>
-  <td width="50%">
-    <p align="center">
-      <a href="https://github.com/rainaku/FreeMyRam">
-        <img src="https://raw.githubusercontent.com/rainaku/FreeMyRam/main/src/Assets/icon.png" width="80" alt="FreeMyRam Icon"/>
-      </a>
-    </p>
-    <h3 align="center">FreeMyRam</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C%23-00ACC1?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-4DD0E1?style=flat-square&logo=dotnet&logoColor=white"/>
-    </p>
-    <p align="center"><em>Flush all of your RAM cache instantly!</em></p>
-    <p align="center">
-      <a href="https://github.com/rainaku/FreeMyRam">
-        <img src="https://img.shields.io/github/stars/rainaku/FreeMyRam?style=flat-square&color=00BCD4" alt="Stars"/>
-      </a>
-    </p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">YouTube Video Stretcher</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/YouTube-Video-Stretcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="YouTube-Video-Stretcher"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-00ACC1?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Chrome-4DD0E1?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </p>
-    <p align="center"><em>Stretch video ratio like old Counter-Strike!</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">YouTube Premium Logo</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/Youtube-Premium-Logo-Free">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="Youtube-Premium-Logo-Free"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-00ACC1?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Extension-4DD0E1?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </p>
-    <p align="center"><em>Free Premium logo (aesthetic only)</em></p>
-  </td>
-</tr>
-</table>
+<br/>
+
+| <a href="https://github.com/rainaku/V-Notch"><img src="https://raw.githubusercontent.com/rainaku/V-Notch/main/Services/icons/logo.png" width="90" style="border-radius: 22%;"/></a> | **V-Notch** <br/> The definitive Dynamic Island for Windows. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) |
+| :--- | :--- |
+| <a href="https://github.com/rainaku/Scroll-V"><img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="90" style="border-radius: 22%;"/></a> | **Scroll-V** <br/> Redefining physics-based smooth scrolling. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
+
 </div>
 
 ---
 
-## Contribution Snake
+## <img src="https://img.shields.io/badge/-%E2%9C%A7-lightgrey?style=flat-square" width="20" valign="middle"/> Contribution Graph
 
 <div align="center">
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -181,57 +105,32 @@ fun_fact: I love making free tools that should be paid
 
 ---
 
-## Let's Connect
+## <img src="https://img.shields.io/badge/-%E2%9C%89-lightgrey?style=flat-square" width="20" valign="middle"/> Let's Collaborate
 
 <div align="center">
-  
-<a href="https://rainaku.id.vn">
-  <img src="https://img.shields.io/badge/Portfolio-rainaku.id.vn-00ACC1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/rain.107/">
-  <img src="https://img.shields.io/badge/Facebook-rain.107-4DD0E1?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:ra1naku@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ra1naku-00BCD4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> *"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."*
->
-> **— Steve Jobs**
-
-</div>
-
----
-
-<div align="center">
-
-### Support My Work
-
-<p>If you like my projects, consider buying me a coffee!</p>
-
-<a href="https://www.buymeacoffee.com/rainaku">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-00ACC1?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:B2EBF2,100:4DD0E1&height=120&section=footer"/>
-
+<br/>
 <p>
-  <img src="https://img.shields.io/badge/Made_with-Love-00ACC1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/From-Vietnam-4DD0E1?style=for-the-badge"/>
+  <a href="https://rainaku.id.vn">
+    <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000"/>
+  </a>
+  <a href="https://www.facebook.com/rain.107/">
+    <img src="https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000"/>
+  </a>
+  <a href="mailto:ra1naku@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  </a>
 </p>
 
-**Thanks for visiting! Have a great day!**
+<br/>
+
+<a href="https://www.buymeacoffee.com/rainaku">
+  <img src="https://img.shields.io/badge/Support_Innovation-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
+</a>
+
+<br/><br/>
+
+**Crafted with Precision by RAIN. in Vietnam**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1d1d1f&height=2&section=footer"/>
