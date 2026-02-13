@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Header: Cache Busted -->
-<img width="100%" src="https://raw.githubusercontent.com/rainaku/rainaku/main/rainaku.png?t=202602121255" alt="Rain Hero" style="border-radius: 24px; object-fit: cover;"/>
+<img width="100%" src="https://raw.githubusercontent.com/rainaku/rainaku/main/rain.gif?t=202602121255" alt="Rain Hero" style="border-radius: 24px; object-fit: cover;"/>
 
 <br/>
 
