@@ -7,7 +7,7 @@
 
 <!-- Modern Typing: EB Garamond -->
 <a href="https://github.com/rainaku">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Think+different.;Design+precision.;Build+excellence." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=32&duration=3500&pause=1500&color=FFFFFF&link=https%3A%2F%2Fgithub.com%2Frainaku&center=true&vCenter=true&width=700&height=70&lines=Glory+for+mankind.;I+made+free+products." alt="Typing SVG" />
 </a>
 
 <br/>
