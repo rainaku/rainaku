@@ -59,11 +59,6 @@
 <div align="center">
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=F5F5F7&count_private=true&t=20260212)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rainaku&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=F5F5F7&langs_count=8&t=20260212)
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rainaku&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=F5F5F7&t=20260212)
 
 </div>
@@ -78,6 +73,8 @@
 | <a href="https://github.com/rainaku/V-Notch"><img src="https://raw.githubusercontent.com/rainaku/V-Notch/main/Services/icons/logo.png" width="90" style="border-radius: 22%;"/></a> | **V-Notch** <br/> The definitive Dynamic Island for Windows. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) |
 | :--- | :--- |
 | <a href="https://github.com/rainaku/Scroll-V"><img src="https://raw.githubusercontent.com/rainaku/Scroll-V/main/Fonts/appico.png" width="90" style="border-radius: 22%;"/></a> | **Scroll-V** <br/> Redefining physics-based smooth scrolling. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
+| <a href="https://github.com/rainaku/FreeMyRam"><img src="https://raw.githubusercontent.com/rainaku/FreeMyRam/main/src/Assets/icon.png" width="90" style="border-radius: 22%;"/></a> | **V-FreeMyRam** <br/> Simple, fast, and powerful RAM optimizer for Windows. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
+| <a href="https://github.com/rainaku/V-Proofix"><img src="https://raw.githubusercontent.com/rainaku/V-Proofix/main/Resources/logo.png" width="90" style="border-radius: 22%;"/></a> | **V-Proofix** <br/> AI-Powered Grammar & Style Assistant. <br/> ![C#](https://img.shields.io/badge/C%23-F5F5F7?style=flat-square&logoColor=000000) ![.NET 8](https://img.shields.io/badge/.NET_8-F5F5F7?style=flat-square&logoColor=000000) ![WPF](https://img.shields.io/badge/WPF-F5F5F7?style=flat-square&logoColor=000000) |
 
 </div>
 
