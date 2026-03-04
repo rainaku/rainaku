@@ -45,10 +45,10 @@
 <div align="center">
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dart,js,py,html,css&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,dart,js,ts,py,html,css&theme=dark" alt="Languages"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel,dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark" alt="Tools"/>
 </p>
 </div>
 
